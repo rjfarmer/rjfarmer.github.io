@@ -11,4 +11,4 @@ title: Research
 * X-ray bursts
 * Population synthesis
 * Binaries
-* Eclispsing Binaries
+* Eclipsing Binaries
