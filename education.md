@@ -4,7 +4,7 @@ title: CV
 ---
 
 ## Current:
-Post Doc, Arizonia State University, USA, 2014-
+Post Doc, Arizona State University, USA, 2014-
 
 Supervisors:
 
@@ -22,4 +22,4 @@ Supervisors:
 * Prof Boris Gänsicke
 
 ### Undergrad:
-MPhys, Hons, Warwick University, UK, 2006-20010
+MPhys, Hons, Warwick University, UK, 2006-2010
