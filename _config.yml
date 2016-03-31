@@ -1,9 +1,6 @@
 # Dependencies
-markdown:         redcarpet
+markdown:         kramdown
 highlighter:      pygments
-
-# Permalinks
-permalink:        pretty
 
 # Setup
 title:            'Robert Farmer'
