@@ -4,13 +4,19 @@ title: CV
 ---
 
 ## Current:
-Post Doc, Arizona State University, USA, 2014-
+Post Doc, Anton Pannenkoek Institute for Astronomy, University of Amsterdam, Amsterdam, 2017-
+
+Supervisors:
+
+* Dr Selma De Mink
+
+## Previously:
+
+Post Doc, Arizonia State University, USA, 2014-2017
 
 Supervisors:
 
 * Prof Frank Timmes 
-
-## Previously:
 
 ### Phd:
 "Population synthesis in the Kepler field", The Open University, UK, 2010-2014
@@ -22,4 +28,4 @@ Supervisors:
 * Prof Boris Gänsicke
 
 ### Undergrad:
-MPhys, Hons, Warwick University, UK, 2006-2010
+MPhys, Hons, Warwick University, UK, 2006-20010
