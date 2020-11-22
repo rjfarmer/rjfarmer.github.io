@@ -3,6 +3,16 @@ _gh_pages
 _site
 .ruby-version
 
+*.gem
+.bundle
+.sass-cache
+.jekyll-cache
+_site
+Gemfile.lock
+unused
+bootstrap-reference.html
+
+
 # Numerous always-ignore extensions
 *.diff
 *.err
