@@ -83,7 +83,18 @@ team:
       - name: "ORCID"
         image: assets/img/768px-ORCID_iD.svg.png
         url: "https://orcid.org/0000-0003-3441-7624"
-          
+   
+        
+talks:
+    title: "Talks"
+    text: "A selection of recent talks that I have given that are available online"
+    subtext: 
+    section: talks
+    people:
+      - name: "C12(a,g)O16"
+        url: "https://youtube.com/embed/X6Ak657CpjY"
+        image: assets/img/youtube_c12ag.png
+
 
     
 footer:

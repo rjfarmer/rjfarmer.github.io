@@ -11,8 +11,10 @@ nav:
   - title: "Links"
     section: team
 
-  # - title: "Contact"
-  #   section: contact
+  - title: "Talks"
+    section: talks
+
+
 
   - title: "Theme Source"
     url: https://github.com/raviriley/agency-jekyll-theme/
