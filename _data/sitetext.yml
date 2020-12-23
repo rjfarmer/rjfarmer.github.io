@@ -35,7 +35,7 @@ portfolio:
 timeline:
     title: "C.V" 
     text: 
-    section: 
+    section: timeline
     cvfile: assets/cv.pdf
     # left is the default
     #start_align: "left"
