@@ -47,7 +47,7 @@ timeline:
         align: bottom
       - title: "MESA Developer"
         year: "2014-"
-        desc: "I am a senoir developer for the MESA stellar evolution code, and a member of the MESA technical council, which oversees the technial develpment of the MESA code. I focus all all things to do with massive stars, core collapse physics, nuclosynthesis, nuclear reactions, and netrinos."
+        desc: "I am a senior developer for the MESA stellar evolution code, and a member of the MESA technical council, which oversees the technical development of the MESA code. I focus all all things to do with massive stars, core collapse physics, nuclosynthesis, nuclear reactions, and neutrinos."
         image: assets/img/mesa.png
         align: bottom
 
