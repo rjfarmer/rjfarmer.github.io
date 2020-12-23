@@ -21,7 +21,7 @@ email      : r.j.farmer@uva.nl #this is also the email contact forms will go to
 description: "Rob Farmer's personnel site"
 author     : Rob Farmer
 logo:     #optional, defaults to site title
-  path: assets\Farmer_Robert_web.jpg
+  #path: assets\Farmer_Robert_web.jpg
   height: 60 #height in px, defaults to 52px
 
 analytics:
