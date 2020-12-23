@@ -45,6 +45,12 @@ timeline:
         desc: "In this post doc I am currently trying to understand what we can learn about the lives and deaths of massive stars from merging binary black holes detected by LIGO/Virgo. I continue to work on developing the MESA stellar evolution code "
         image: assets/img/api.png
         align: bottom
+      - title: "MESA Developer"
+        year: "2014-"
+        desc: "I am a senoir developer for the MESA stellar evolution code, and a member of the MESA technical council, which oversees the technial develpment of the MESA code. I focus all all things to do with massive stars, core collapse physics, nuclosynthesis, nuclear reactions, and netrinos."
+        image: assets/img/mesa.png
+        align: bottom
+
       - title: "Post-Doc Arizona State University"
         year: "2014-2017"
         desc: "My first post doc focused on understanding how massive stars that will explode live and die. This include SAGB stars and core collapse progenitors. The other part of my time was spent developing the MESA stellar evolution code."
