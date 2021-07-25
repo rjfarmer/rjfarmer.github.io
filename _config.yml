@@ -18,7 +18,7 @@ baseurl: "" # the subpath of your site, e.g. /blog
 
 title      : Rob Farmer
 email      : r.j.farmer@uva.nl #this is also the email contact forms will go to
-description: "Rob Farmer's personnel site"
+description: "Rob Farmer's personal site"
 author     : Rob Farmer
 logo:     #optional, defaults to site title
   #path: assets\Farmer_Robert_web.jpg
