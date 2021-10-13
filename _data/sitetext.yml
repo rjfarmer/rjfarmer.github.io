@@ -40,8 +40,14 @@ timeline:
     # left is the default
     #start_align: "left"
     events:
+      - title: "Post-Doc Max Planck Institute for Astrophysics"
+        year: "2021-"
+        desc: "In this post doc I am currently trying to understand what we the chemical yields from binary stars and how they differe to those of single stars. I continue to work on developing the MESA stellar evolution code "
+        image: assets/img/maxplanck.jpeg
+        align: bottom
+
       - title: "Post-Doc University Of Amsterdam"
-        year: "2017-"
+        year: "2017-2021"
         desc: "In this post doc I am currently trying to understand what we can learn about the lives and deaths of massive stars from merging binary black holes detected by LIGO/Virgo. I continue to work on developing the MESA stellar evolution code "
         image: assets/img/api.png
         align: bottom
